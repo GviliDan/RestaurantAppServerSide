@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="StringSerchAlgo">
+    <output-path>$PROJECT_DIR$/out/artifacts/StringSerchAlgo</output-path>
+    <root id="archive" name="StringSerchAlgo.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/../../StringSearchAlgo/out/artifacts/StringSearchAlgo_jar/StringSearchAlgo.jar" />
+    </root>
+  </artifact>
+</component>

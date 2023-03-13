@@ -1,0 +1,1 @@
+{"1":{"price":5,"name":"kola"},"2":{"price":4,"name":"water"},"3":{"barComments":"","price":5,"name":"sprite"},"4":{"barComments":"","price":5,"name":"coffe"},"5":{"barComments":"","price":10,"name":"orange juice"},"6":{"barComments":"","price":4,"name":"soda"}}
