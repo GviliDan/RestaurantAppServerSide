@@ -4,7 +4,7 @@
 
 </div>
 
-**Overview**
+##  **Overview**
 Welcome to the Restaurant Management Server, the backbone of the Restaurant Management System. This Java-based server application provides the essential backend functionality for efficiently managing a restaurant. It handles seamless communication with the client-side application and the database, allowing smooth management of orders, tables, and staff. 🍽️🔌🚀
 
 ## 🚀 Key Features
@@ -15,6 +15,3 @@ Welcome to the Restaurant Management Server, the backbone of the Restaurant Mana
 
 ## 🎯 Objective
 As a computer science enthusiast, I developed this server-side application to complement the Restaurant Management System. This project showcases my skills in Java programming and server development, enabling me to demonstrate my capabilities in building practical solutions for real-world scenarios. 🤝🔧🌟
-
-**Explore the Server**
-Join me in exploring the Restaurant Management Server and witness the power of effective backend management! 🍔🔌🚀
